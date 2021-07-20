@@ -26,24 +26,22 @@ Note that when using the Save function within FSlint to save file lists, it will
 
 The following steps assume that you have downloaded and organised your ISIC datasets into the following directory structure:
 
-`
-ISIC
-├─ 2016
-|   └─ test
-|   └─ train
-├─ 2017
-|   └─ test
-|   └─ train
-├─ 2018
-|   └─ test
-|   └─ train
-├─ 2019
-|   └─ test
-|   └─ train
-└─ 2020
-    └─ test
-    └─ train
-`
+    ISIC
+    ├─ 2016
+    |   └─ test
+    |   └─ train
+    ├─ 2017
+    |   └─ test
+    |   └─ train
+    ├─ 2018
+    |   └─ test
+    |   └─ train
+    ├─ 2019
+    |   └─ test
+    |   └─ train
+    └─ 2020
+        └─ test
+        └─ train
 
 ## Duplicate Removal Process
 
