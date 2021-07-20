@@ -1,4 +1,4 @@
-# ISIC Duplicate Removal Strategy
+# ISIC Datasets Duplicate Removal Strategy
 
 Instructions for the removal of duplicate image files from within individual ISIC datasets and across all ISIC datasets.
 
