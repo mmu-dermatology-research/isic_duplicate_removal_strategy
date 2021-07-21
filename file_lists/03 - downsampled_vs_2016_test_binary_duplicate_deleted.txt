@@ -1,0 +1,2 @@
+/home/bc/Datasets/ISIC (A)/2019/train/downsampled/ISIC_0012970.jpg
+
