@@ -1,0 +1,2 @@
+/home/bc/Datasets/ISIC (B)/2016/train/ISBI2016_ISIC_Part3_Training_Data/ISIC_0001184.jpg
+/home/bc/Datasets/ISIC (B)/2016/train/ISBI2016_ISIC_Part3_Training_Data/ISIC_0001385.jpg

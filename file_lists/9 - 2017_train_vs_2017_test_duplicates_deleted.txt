@@ -1,0 +1,2 @@
+/home/bc/Datasets/ISIC (B)/2017/train/ISIC-2017_Training_Data/ISIC_0012271.jpg
+/home/bc/Datasets/ISIC (B)/2017/train/ISIC-2017_Training_Data/ISIC_0012175.jpg

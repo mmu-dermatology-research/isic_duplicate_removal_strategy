@@ -1,0 +1,1 @@
+/home/bc/Datasets/ISIC (B)/2019/train/ISIC_2019_Training_Input/ISIC_0012758.jpg
