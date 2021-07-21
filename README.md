@@ -99,7 +99,7 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 ## 3. Training Image Files Deleted
 
-The table below shows a summary of all the files you can download from this repository containing lists of the image file names of the images that were deleted using the above duplicate removal strategy:
+The table below shows a summary of all the files you can download from this repository containing lists of the image file names of the images that were deleted using the above duplicate removal strategy. Note that for items 6 to 11 the *Select > within groups > Select all but neweset* option was used in FSlint to mark files for deletion.
 
 Order | Filename                                                 | Delete Count
 ----- | ---------------------------------------------------------| ------------
