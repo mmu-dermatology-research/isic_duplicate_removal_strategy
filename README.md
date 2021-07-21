@@ -97,6 +97,24 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 22. In FSlint, ensure that the 'Duplicates' option (left panel) is seleced. Highlight all paths shown in the *Search path* window and click the *Remove* button. Add the following dirs to the *Search path*: `ISIC (A)/2016/test`, `ISIC (A)/2017/test`, `ISIC (A)/2018/test`, `ISIC (A)/2019/test`, and `ISIC (A)/2020/test`. Click the *Find* button. When results are returned, if you want to delete the oldest duplicate image files, click *Select > within groups > select all but newest*. If you want to delete the newest duplicate image files, click *Select > within groups > select all but oldest*. Click the *Delete* button to delete the selected image files.
 
+## 3. Trainin Image File Deleted Lists
+
+The table below shows a summary of all the files you can download from this repository containing lists of the image file names of the images that were deleted using the above duplicate removal strategy:
+
+Order | Filename                                                 | Delete Count
+----- | ---------------------------------------------------------| ------------
+1     | downsampled_vs_2016_test_duplicate_filename_deleted.txt  | 95
+2     | downsampled_vs_2017_test_duplicate_filename_deleted.txt  | 594
+3     | downsampled_vs_2016_test_binary_duplicate_deleted.txt    | 1
+4     | downsampled_vs_2016_train_duplicate_filename_deleted.txt | 291
+5     | downsampled_vs_2017_train_duplicate_filename_deleted.txt | 946
+6     | all_train_duplicates_deleted_(all but newest).txt        | 12,038
+7     | 2016_train_vs_2016_test_duplicates_deleted.txt           | 2
+8     | 2017_train_vs_2016_test_duplicates_deleted.txt           | 82
+9     | 2017_train_vs_2017_test_duplicates_deleted.txt           | 2
+10    | 2019_train_vs_2016_test_duplicates_deleted.txt           | 258
+11    | 2019_train_vs_2017_test_duplicates_deleted.txt           | 1
+
 <!--- * about the 'train vs test' searches - note that within-set duplicates will be included in the search results if you have not previously performed steps to delete within-set duplicates. --->
 
 <!--- todo: add details of static search results that don't include any cumulative deletes --->
