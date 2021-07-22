@@ -16,7 +16,7 @@ If you use any part of the duplicate removal strategy in a research project, ple
 } 
 ```
 
-Please read the DISCLAIMER before using any of the code or methods from this repository.
+Please read the DISCLAIMER before using any of the methods or code from this repository.
 
 ## 1. Prequisites
 
