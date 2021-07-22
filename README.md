@@ -81,7 +81,7 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 ### 2.2 Delete Binary Indentical 'Within-Train-Sets' and 'Across-Train-Sets' Training Images
 
-17. In FSlint, ensure that the 'Duplicates' option (left panel) is seleced. Highlight all paths shown in the *Search path* window and click the *Remove* button. Add the following dirs to the *Search path*: `ISIC (A)/2016/train`, `ISIC (A)/2017/train`, `ISIC (A)/2018/train`, `ISIC (A)/2019/train`, and `ISIC (A)/2020/train`. Click the *Find* button. When results are returned, if you want to delete the oldest duplicate image files, click *Select > within groups > select all but newest*. If you want to delete the newest duplicate image files, click *Select > within groups > select all but oldest*. Click the *Delete* button to delete the selected image files.
+17. In FSlint, ensure that the 'Duplicates' option (left panel) is selected. Highlight all paths shown in the *Search path* window and click the *Remove* button. Add the following dirs to the *Search path*: `ISIC (A)/2016/train`, `ISIC (A)/2017/train`, `ISIC (A)/2018/train`, `ISIC (A)/2019/train`, and `ISIC (A)/2020/train`. Click the *Find* button. When results are returned, if you want to delete the oldest duplicate image files, click *Select > within groups > select all but newest*. If you want to delete the newest duplicate image files, click *Select > within groups > select all but oldest*. Click the *Delete* button to delete the selected image files.
 
 18. In FSlint, highlight all paths shown in the *Search path* window and click the *Remove* button.
 
