@@ -93,7 +93,7 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 21. Repeat steps 19 to 20 for each of the remaining year dirs (2017 - 2020).
 
-### 2.4 Delete Binary Indentical 'Within-Test-Sets' Test Images
+### 2.4 Delete Binary Identical 'Within-Test-Sets' Test Images
 
 22. In FSlint, ensure that the 'Duplicates' option (left panel) is selected. Highlight all paths shown in the *Search path* window and click the *Remove* button. Add the following dirs to the *Search path*: `ISIC (A)/2016/test`, `ISIC (A)/2017/test`, `ISIC (A)/2018/test`, `ISIC (A)/2019/test`, and `ISIC (A)/2020/test`. Click the *Find* button. When results are returned, if you want to delete the oldest duplicate image files, click *Select > within groups > select all but newest*. If you want to delete the newest duplicate image files, click *Select > within groups > select all but oldest*. Click the *Delete* button to delete the selected image files.
 
