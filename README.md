@@ -97,7 +97,7 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 22. In FSlint, ensure that the 'Duplicates' option (left panel) is selected. Highlight all paths shown in the *Search path* window and click the *Remove* button. Add the following dirs to the *Search path*: `ISIC (A)/2016/test`, `ISIC (A)/2017/test`, `ISIC (A)/2018/test`, `ISIC (A)/2019/test`, and `ISIC (A)/2020/test`. Click the *Find* button. When results are returned, if you want to delete the oldest duplicate image files, click *Select > within groups > select all but newest*. If you want to delete the newest duplicate image files, click *Select > within groups > select all but oldest*. Click the *Delete* button to delete the selected image files.
 
-## 3. Training Image Files Deleted
+## 3. Image File Deletion Logs
 
 The table below shows a summary of all the file lists you can download from this repository containing image file names of the images that were deleted using the above duplicate removal strategy. Note that for items 6 to 11 (Order column) the *Select > within groups > Select all but newest* option was used in FSlint to mark files for deletion.
 
