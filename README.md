@@ -114,6 +114,7 @@ Order | Filename                                                 | Delete Count
 9     | 2017_train_vs_2017_test_duplicates_deleted.txt           | 2
 10    | 2019_train_vs_2016_test_duplicates_deleted.txt           | 258
 11    | 2019_train_vs_2017_test_duplicates_deleted.txt           | 1
+12    | all_test_duplicates_deleted_(all but newest).txt         | 1,592
 
 <!--- * about the 'train vs test' searches - note that within-set duplicates will be included in the search results if you have not previously performed steps to delete within-set duplicates. --->
 
