@@ -6,13 +6,13 @@ If you use any part of the duplicate removal strategy in a research project, ple
 
 ```BibTex
 @article{cassidy2021isic,
- author    = {Cassidy, Bill and Kendrick, Connah and Brodzickib, Andrzej and Jaworek-Korjakowskab, Joanna and Yap, Moi Hoon},
- title     = {Analysis of the ISIC Image Datasets: Usage, Benchmarks and Recommendations},
- journal   = {Medical Image Analysis},
- volume    = {?},
- pages     = {?--?},
- year      = {2021},
- publisher = {Elsevier}
+ title   = {Analysis of the ISIC Image Datasets: Usage, Benchmarks and Recommendations},
+ author  = {Bill Cassidy and Connah Kendrick and Andrzej Brodzicki and Joanna Jaworek-Korjakowska and Moi Hoon Yap},
+ journal = {Medical Image Analysis},
+ year    = {2021},
+ issn    = {1361-8415},
+ doi     = {https://doi.org/10.1016/j.media.2021.102305},
+ url     = {https://www.sciencedirect.com/science/article/pii/S1361841521003509}
 } 
 ```
 
