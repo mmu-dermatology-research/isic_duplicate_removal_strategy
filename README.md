@@ -2,7 +2,7 @@
 
 Instructions for the removal of duplicate image files from within individual ISIC datasets and across all ISIC datasets.
 
-If you use any part of the duplicate removal strategy in a research project, please consider citing [our paper](https://www.abcde.com):
+If you use any part of the duplicate removal strategy in a research project, please consider citing [our paper](https://www.sciencedirect.com/science/article/pii/S1361841521003509):
 
 ```BibTex
 @article{cassidy2021isic,
