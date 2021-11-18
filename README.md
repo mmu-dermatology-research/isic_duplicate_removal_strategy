@@ -99,7 +99,7 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 ## 3. Image File Deletion Logs
 
-The table below shows a summary of all the file lists you can download from this repository containing image file names of the images that were deleted using the above duplicate removal strategy. Note that for items 6 to 11 (Order column) the *Select > within groups > Select all but newest* option was used in FSlint to mark files for deletion.
+The table below shows a summary of all the file lists you can download from this repository (`file_lists` dir) containing image file names of the images that were deleted using the above duplicate removal strategy. Note that for items 6 to 11 (Order column) the *Select > within groups > Select all but newest* option was used in FSlint to mark files for deletion.
 
 Order | Filename                                                 | Delete Count
 ----- | ---------------------------------------------------------| ------------
