@@ -49,7 +49,7 @@ The following steps assume that you have downloaded and organised your ISIC data
 
 2. In `2019/train`, find all 2,074 files containing the `_downsampled` suffix and move them into a new folder called `downsampled` in the `ISIC (A)` dir.
 
-3. Run the *remove_downsampled_suffix.py* script from within the `ISIC (A)` dir. This removes the `_downsampled` suffix from the downsampled files so that they can be compared by name to files in all the other ISIC train/test sets.
+3. Run the *remove_downsampled_suffix.py* script from within the `ISIC (A)/downsampled` dir. This removes the `_downsampled` suffix from the downsampled files so that they can be compared by name to files in all the other ISIC train/test sets.
 
 4. Run command `fslint-gui` in a Terminal to open FSlint.
 
