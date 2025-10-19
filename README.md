@@ -16,11 +16,13 @@ If you use any part of the duplicate removal strategy in a research project, ple
 } 
 ```
 
+Please read the DISCLAIMER before using any of the methods or code from this repository.
+
+
 # Update (2025)
 
 Since the creation of the curated balanced dataset, an extended curated ISIC dataset has since been proposed by Ahammed et al. and can be found [here](https://github.com/mmu-dermatology-research/isic-dicm-17k).
 
-Please read the DISCLAIMER before using any of the methods or code from this repository.
 
 ## 1. Prerequisites
 
